@@ -14,10 +14,11 @@ This tool can create folders until the target system slows down.
 
 # :world_map: how to use this tool?!
 
-- you should download this tool from my github account
-- then, open "" file with vscode or notpad++ or...
-- in this time, you should write the path that you want to create folders
-- If you just want to watch how the tool works, don't clear the hash (#)!
+- you should download "folder bomber.py" from my github account.
+- install rand-string library with `python3 pip install rand-string` or `python install rand-string` or `pip install rand-string` syntaxes in cmd or terminal.
+- then, open "folder nomber.py" file with vscode or notpad++ or...
+- now you should write the path that you want to create folders in it.
+- if you want just to watch how the tool works, don't clear the hashes (#)!
 - lines of 13 and 14 is very danger and i recommend do not run that part of code in any systems!
 
 # future:
